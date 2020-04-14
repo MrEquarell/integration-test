@@ -6,9 +6,9 @@
  3. Appuyer sur son nom d’utilisateur.
 
 ## Cloner le repo :
- 1. depuis le terminal dans le fichier de votre choix =>
- `git clone git@github.com:NOM_D_UTILISATEUR_GITHUB/integration-test.git`
- `cd integration-test`
+  1. depuis le terminal dans le fichier de votre choix =>
+  `git clone git@github.com:NOM_D_UTILISATEUR_GITHUB/integration-test.git`
+  `cd integration-test`
 
 ## Lancer yarn :
  (Yarn est necessaire https://classic.yarnpkg.com/fr/docs/instal)
