@@ -9,8 +9,9 @@
 ## Cloner le repo:
 
   1. depuis le terminal dans le fichier de votre choix =>
-    `git clone git@github.com:NOM_D_UTILISATEUR_GITHUB/integration-test.git`
-    `cd integration-test`
+  `git clone git@github.com:NOM_D_UTILISATEUR_GITHUB/integration-test.git`
+
+  `cd integration-test`
 
 ## Lancer yarn
   (Yarn est necessaire https://classic.yarnpkg.com/fr/docs/instal)
@@ -24,33 +25,33 @@
   Une composante racine a ete cree et les donnees exportees, un petit echantillon y a ete utilise.
 
   L'index devrait montrer pour chaque Advisor :
-    - Nom
-    - Prenom
-    - Age
-    - Rating
-    - Leur derniere ecole
+  - Nom
+  - Prenom
+  - Age
+  - Rating
+  - Leur derniere ecole
 
   La vue devrait montrer toutes les informations:
-    - Nom
-    - Prenom
-    - Description
-    - Tags
-    - Rating
-    - Age
-    - Ville
-    - Questions (les questions qu'il peut repondre)
-    - Ecoles
+  - Nom
+  - Prenom
+  - Description
+  - Tags
+  - Rating
+  - Age
+  - Ville
+  - Questions (les questions qu'il peut repondre)
+  - Ecoles
 
 ### Format des donnees.
   Les donnees sont formatees comme suit.
   Une collection d'objets avec les arrtibuts suivants:
-    - first_name: String,
-    - last_name: String,
-    - picture_url: String,
-    - description: String,
-    - tags: Array<String> (Collection de Strings),
-    - rating: Number (Float) ,
-    - age: Number,
-    - city: String,
-    - questions: Array<String> (Collection de Strings),
-    - schools: Array<String> (Collection de Strings)
+  - first_name: String,
+  - last_name: String,
+  - picture_url: String,
+  - description: String,
+  - tags: Array<String> (Collection de Strings),
+  - rating: Number (Float) ,
+  - age: Number,
+  - city: String,
+  - questions: Array<String> (Collection de Strings),
+  - schools: Array<String> (Collection de Strings)
