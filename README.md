@@ -8,6 +8,7 @@
 ## Cloner le repo :
   1. depuis le terminal dans le fichier de votre choix =>
   `git clone git@github.com:NOM_D_UTILISATEUR_GITHUB/integration-test.git`
+
   `cd integration-test`
 
 ## Lancer yarn :
