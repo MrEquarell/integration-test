@@ -1,6 +1,6 @@
 /* BOX */
 
-#advisor-1{
+#advisor{
     width: 400px;
     height: 400px;
     display: flex;
@@ -8,12 +8,40 @@
     justify-content: center;
     background: #fff;
     border-radius: 20px;
-    margin: 150px 100px;
+    /* margin: 150px 100px; */
     padding: 15px 30px;
     -webkit-box-shadow: 2px 4px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 2px 4px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 2px 4px 10px 0px rgba(0,0,0,0.2);
 }
+
+/* ADVISORS LIST */
+
+.advisor-1{
+    margin: 150px 100px 0px;
+}
+
+.advisor-2{
+    margin: 50px 100px 0px !important;
+}
+
+.advisor-3{
+    margin: 50px 100px 0px !important;
+}
+
+.advisor-4{
+    margin: 50px 100px 0px !important;
+}
+
+.advisor-5{
+    margin: 50px 100px 0px !important;
+}
+
+.advisor-6{
+    margin: 50px 100px !important;
+}
+
+/* PROFIL */
 
 .profil-img{
     border-radius: 50%;
@@ -29,4 +57,10 @@ ul #profil li{
 
 ul #profil li a{
     color: #000 !important;
+}
+
+ul #profil li a.name{
+    color: #000;
+    font-size: 24px;
+    font-weight: 600;
 }
