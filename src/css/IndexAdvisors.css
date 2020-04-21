@@ -62,5 +62,9 @@ ul #profil li a{
 ul #profil li a.name{
     color: #000;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 600 !important;
+}
+
+ul #profil li a{
+    font-weight: 400;
 }
