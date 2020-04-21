@@ -1,14 +1,32 @@
-.advisors{
+/* BOX */
+
+#advisor-1{
     width: 400px;
-    height: auto;
+    height: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: #fff;
     border-radius: 20px;
+    margin: 150px 100px;
     padding: 15px 30px;
+    -webkit-box-shadow: 2px 4px 10px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 4px 10px 0px rgba(0,0,0,0.2);
+    box-shadow: 2px 4px 10px 0px rgba(0,0,0,0.2);
 }
 
 .profil-img{
     border-radius: 50%;
+}
+
+#profil{
+    position: relative !important;
+}
+
+ul #profil li{
+    text-decoration: none !important;
+}
+
+ul #profil li a{
+    color: #000 !important;
 }

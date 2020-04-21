@@ -4,6 +4,7 @@ nav {
     height: 80px;
     position: fixed;
     z-index: 1;
+    /* display: none; */
 }
 
 nav #logo{

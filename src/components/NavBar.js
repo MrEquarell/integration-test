@@ -14,7 +14,7 @@ class NavBar extends Component {
                         <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a class="join" href="contact.html">Rejoindre Study Advisor</a></li>
+                        <li><a class="join" href="#">Rejoindre Study Advisor</a></li>
                     </ul>
                 </nav> 
             </div>
