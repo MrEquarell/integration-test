@@ -1,80 +1,80 @@
 const advisors = [
   {
     first_name: "Camille",
-    last_name: "L'advisor",
+    last_name: "Meuron",
     picture_url: "http://studyadv.s3.amazonaws.com/production/administrators/pictures/000/000/024/original/Cam.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur commodi odio quo, nobis, eveniet, officia aliquid impedit asperiores quis temporibus deserunt natus ratione quae nostrum. Laudantium, nulla illum id optio.",
-    tags: ["Lorem ipsum.", "Lorem.", "Lorem ipsum", "dolor sit."],
-    rating: 3.3,
-    age: 22,
+    description: "J'aime beaucoup partager mon expérience avec d'autres personnes, cela montre à quel point on peut évoluer et grandir pour enfin montrer qu'il est possible de trouver sa voie.",
+    tags: ["Ingénieur", "Prépa", "Web", "Formation"],
+    rating: 5,
+    age: 24,
     city: "Paris",
-    questions: ["Lorem ipsum dolor sit amet, consectetur adipisicing.?", "Lorem ipsum dolor.?", "Lorem ipsum dolor sit.?"],
-    schools: ["Sorbonne faculte de droit", "Lycee Lorem."]
+    questions: ["Quelle orientation choisir.?", "Quel parcours faut-il faire.?", "Se préparer aux grandes études.?"],
+    schools: ["ESIEA Paris"]
 
   },
   {
     first_name: "Maxime",
-    last_name: "L'advisor",
+    last_name: "Lambert",
     picture_url: "http://studyadv.s3.amazonaws.com/production/administrators/pictures/000/000/008/original/Max3.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis incidunt nihil accusantium architecto non, excepturi distinctio molestiae voluptates modi, aperiam necessitatibus amet tempora quia velit, optio fugit consequatur debitis quae.",
-    tags: ["Lorem ipsum.", "Lorem.", "Lorem ipsum", "dolor sit."],
-    rating: 4.6,
-    age: 22,
+    description: "J'aime beaucoup partager mon expérience avec d'autres personnes, cela montre à quel point on peut évoluer et grandir pour enfin montrer qu'il est possible de trouver sa voie.",
+    tags: ["Ingénieur", "Prépa", "Web", "Formation"],
+    rating: 4.2,
+    age: 26,
     city: "Annecy",
-    questions: ["Lorem ipsum dolor sit amet, consectetur adipisicing.?", "Lorem ipsum dolor.?", "Lorem ipsum dolor sit.?"],
-    schools: ["Sorbonne faculte de droit", "Lycee Lorem."]
+    questions: ["Quelle orientation choisir.?", "Quel parcours faut-il faire.?", "Se préparer aux grandes études.?"],
+    schools: ["EPITECH Paris"]
 
   },
   {
     first_name: "Pablo",
-    last_name: "L'advisor",
+    last_name: "Gérou",
     picture_url: "http://studyadv.s3.amazonaws.com/production/administrators/pictures/000/000/022/original/pablo.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est aliquid voluptas praesentium id porro. Ullam aliquid dolores nulla voluptate, laboriosam placeat blanditiis aut maiores. Deserunt, veritatis! Esse molestias quod doloribus.",
-    tags: ["Lorem ipsum.", "Lorem.", "Lorem ipsum", "dolor sit."],
-    rating: 2.0,
-    age: 22,
-    city: "Eteaux",
-    questions: ["Lorem ipsum dolor sit amet, consectetur adipisicing.?", "Lorem ipsum dolor.?", "Lorem ipsum dolor sit.?"],
-    schools: ["Sorbonne faculte de droit", "Lycee Lorem."]
+    description: "J'aime beaucoup partager mon expérience avec d'autres personnes, cela montre à quel point on peut évoluer et grandir pour enfin montrer qu'il est possible de trouver sa voie.",
+    tags: ["Ingénieur", "Prépa", "Web", "Formation"],
+    rating: 4.8,
+    age: 21,
+    city: "Boulogne",
+    questions: ["Quelle orientation choisir.?", "Quel parcours faut-il faire.?", "Se préparer aux grandes études.?"],
+    schools: ["ESILV Paris La Défense"]
 
   },
   {
     first_name: "Margot",
-    last_name: "L'adviseuse",
+    last_name: "Boulanger",
     picture_url: "http://studyadv.s3.amazonaws.com/production/administrators/pictures/000/000/039/original/EE1A1597.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt nihil officia, doloribus et eum porro? Vel commodi officiis rem accusamus, vero aspernatur asperiores debitis recusandae reiciendis ex, aliquid provident mollitia!",
-    tags: ["Lorem ipsum.", "Lorem.", "Lorem ipsum", "dolor sit."],
-    rating: 5,
-    age: 22,
+    description: "J'aime beaucoup partager mon expérience avec d'autres personnes, cela montre à quel point on peut  évoluer et grandir pour enfin montrer qu'il est possible de trouver sa voie.",
+    tags: ["Ingénieur", "Prépa", "Web", "Formation"],
+    rating: 4.0,
+    age: 20,
     city: "Marseille",
-    questions: ["Lorem ipsum dolor sit amet, consectetur adipisicing.?", "Lorem ipsum dolor.?", "Lorem ipsum dolor sit.?"],
-    schools: ["Lycee Lorem."]
+    questions: ["Quelle orientation choisir.?", "Quel parcours faut-il faire.?", "Se préparer aux grandes études.?"],
+    schools: ["ESME Sudria Lyon"]
 
   },
   {
     first_name: "Emna",
-    last_name: "L'adviseuse",
+    last_name: "Larboisier",
     picture_url: "http://studyadv.s3.amazonaws.com/production/administrators/pictures/000/000/034/original/Emna.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem aliquam a eveniet minus natus obcaecati asperiores nisi sunt culpa quam facilis consectetur magnam recusandae perferendis dicta provident cumque, commodi? Quas!",
-    tags: ["Lorem ipsum.", "Lorem.", "Lorem ipsum", "dolor sit."],
+    description: "J'aime beaucoup partager mon expérience avec d'autres personnes, cela montre à quel point on peut évoluer et grandir pour enfin montrer qu'il est possible de trouver sa voie.",
+    tags: ["Ingénieur", "Prépa", "Web", "Formation"],
     rating: 3.3,
-    age: 22,
+    age: 20,
     city: "Paris",
-    questions: ["Lorem ipsum dolor sit amet, consectetur adipisicing.?", "Lorem ipsum dolor.?", "Lorem ipsum dolor sit.?"],
-    schools: ["Lycee Lorem."]
+    questions: ["Quelle orientation choisir.?", "Quel parcours faut-il faire.?", "Se préparer aux grandes études.?"],
+    schools: ["HEI Campus Lille"]
 
   },
   {
     first_name: "Pauline",
-    last_name: "L'adviseuse",
+    last_name: "Hernès",
     picture_url: "http://studyadv.s3.amazonaws.com/production/administrators/pictures/000/000/041/original/Pauline.jpg",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ad ab aut natus sed nisi dolorum id earum ipsa, magni commodi consequuntur, eum deleniti possimus, deserunt optio facilis quas ullam!",
-    tags: ["Lorem ipsum.", "Lorem.", "Lorem ipsum", "dolor sit."],
-    rating: 2.2,
+    description: "J'aime beaucoup partager mon expérience avec d'autres personnes, cela montre à quel point on peut évoluer et grandir pour enfin montrer qu'il est possible de trouver sa voie.",
+    tags: ["Ingénieur", "Prépa", "Web", "Formation"],
+    rating: 5.0,
     age: 22,
     city: "Lyon",
-    questions: ["Lorem ipsum dolor sit amet, consectetur adipisicing.?", "Lorem ipsum dolor.?", "Lorem ipsum dolor sit.?"],
-    schools: ["Lycee Lorem."]
+    questions: ["Quelle orientation choisir.?", "Quel parcours faut-il faire.?", "Se préparer aux grandes études.?"],
+    schools: ["IIM Paris La Défense"]
 
   },
 ]
